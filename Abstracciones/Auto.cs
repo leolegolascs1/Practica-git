@@ -13,6 +13,7 @@ namespace Abstracciones
         private string _modelo;
         private string _color;
         private string _patente;
+        private string _puertas;
         private string _detalles;
 
         //  Ejemplo Constructor
@@ -26,6 +27,12 @@ namespace Abstracciones
             _patente = patente;
         }
 
+        public string Puertas
+        {
+            get { return _puertas; }
+            set { _puertas = value;}
+
+        }
         public int Anio
         {
             get { return _anio; }
