@@ -1,0 +1,7 @@
+C:\Users\leo\source\repos\Practicas CSharp\Abstracciones\bin\Debug\Abstracciones.exe.config
+C:\Users\leo\source\repos\Practicas CSharp\Abstracciones\bin\Debug\Abstracciones.exe
+C:\Users\leo\source\repos\Practicas CSharp\Abstracciones\bin\Debug\Abstracciones.pdb
+C:\Users\leo\source\repos\Practicas CSharp\Abstracciones\obj\Debug\Abstracciones.csprojAssemblyReference.cache
+C:\Users\leo\source\repos\Practicas CSharp\Abstracciones\obj\Debug\Abstracciones.csproj.CoreCompileInputs.cache
+C:\Users\leo\source\repos\Practicas CSharp\Abstracciones\obj\Debug\Abstracciones.exe
+C:\Users\leo\source\repos\Practicas CSharp\Abstracciones\obj\Debug\Abstracciones.pdb
